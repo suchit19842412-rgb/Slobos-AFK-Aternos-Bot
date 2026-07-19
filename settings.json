@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "indiansmp-iQgZ.aternos.me:38672",
+    "ip": "indiansmp-iQgZ.aternos.me",
     "port": 38672,
     "version": "",
     "try-creative": false
